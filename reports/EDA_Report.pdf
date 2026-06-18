@@ -1,0 +1,53 @@
+# AI-Powered Startup Investment Intelligence Platform
+
+## Objective
+
+To analyze unicorn company data and identify trends, patterns, and investment insights.
+
+## Dataset Overview
+
+* Total Records: 671
+* Total Columns: 6
+* Countries: 76
+* Industries: 162
+
+## Data Quality Analysis
+
+### Missing Values
+
+* Industry Column: 64 Missing Values
+* Founder(s) Column: 514 Missing Values
+
+### Duplicate Records
+
+No significant duplicate records detected.
+
+## Exploratory Data Analysis
+
+### Country Analysis
+
+United States contains the highest number of unicorn companies.
+
+### Industry Analysis
+
+Financial Technology and Software sectors dominate the ecosystem.
+
+### Valuation Analysis
+
+A small number of companies contribute a large share of total valuation.
+
+## Trends & Patterns
+
+* Unicorn growth accelerated after 2020.
+* Technology-driven sectors dominate global startup funding.
+* Startup ecosystems are concentrated in a few countries.
+
+## Recommendations
+
+* Focus on AI and FinTech sectors.
+* Improve missing founder information.
+* Expand startup ecosystem analysis using external funding datasets.
+
+## Conclusion
+
+The analysis successfully identified major startup ecosystem trends and investment opportunities through exploratory data analysis and interactive dashboarding.
