@@ -31,19 +31,6 @@ The project leverages Exploratory Data Analysis (EDA), data visualization, and a
 
 ---
 
-## ❓ Business Questions
-
-The analysis aims to answer the following questions:
-
-1. Which countries have the highest number of unicorn companies?
-2. Which industries dominate the global unicorn ecosystem?
-3. What startup sectors show the strongest market presence?
-4. What data quality issues exist in the dataset?
-5. How are unicorn companies distributed globally?
-6. Which industries attract the most high-growth startups?
-
----
-
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### Data Quality Analysis
